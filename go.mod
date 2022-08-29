@@ -1,4 +1,4 @@
-module github.com/lamlabs/driver/postgres
+module github.com/lamlabs/postgres
 
 go 1.14
 
